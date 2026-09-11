@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Agentic Shift Scenario — Golden Tests > tool-b and tool-e month 24 cumulative costs match snapshots 1`] = `145594`;
+
+exports[`Agentic Shift Scenario — Golden Tests > tool-b and tool-e month 24 cumulative costs match snapshots 2`] = `687673`;

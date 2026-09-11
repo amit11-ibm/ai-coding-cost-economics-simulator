@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Modernisation Scenario — Golden Tests > tool-a month 24 cumulative cost matches golden fixture 1`] = `289440`;

@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Sovereignty First Scenario — Golden Tests > all tools month 24 cumulative costs match snapshots 1`] = `198024`;
+
+exports[`Sovereignty First Scenario — Golden Tests > all tools month 24 cumulative costs match snapshots 2`] = `41060`;
+
+exports[`Sovereignty First Scenario — Golden Tests > all tools month 24 cumulative costs match snapshots 3`] = `167024`;
+
+exports[`Sovereignty First Scenario — Golden Tests > all tools month 24 cumulative costs match snapshots 4`] = `36240`;
+
+exports[`Sovereignty First Scenario — Golden Tests > all tools month 24 cumulative costs match snapshots 5`] = `17428`;
