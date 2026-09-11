@@ -113,6 +113,4 @@ domain → data → engine → state → hooks → features/app
 - No backend, authentication, or external API calls are present in this version.
 - No personal data is collected or processed.
 
-## License
 
-Private repository. All rights reserved.
