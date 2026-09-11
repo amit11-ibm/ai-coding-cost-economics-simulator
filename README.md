@@ -91,8 +91,7 @@ tests/
 ├── pricing/        # Unit tests for pricing calculators
 ├── scenarios/      # Golden-snapshot integration tests
 └── integration/    # Full simulation run tests
-plans/
-└── implementation-plan.md   # Detailed technical specification
+
 ```
 
 ## Architecture
